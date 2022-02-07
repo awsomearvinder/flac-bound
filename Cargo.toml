@@ -19,6 +19,7 @@ optional = true
 
 [dependencies.libflac-sys]
 version = "0.1"
+features = []
 optional = true
 
 [features]
