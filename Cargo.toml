@@ -23,6 +23,6 @@ features = []
 optional = true
 
 [features]
-default  = ["flac"]
+default  = ["libflac"]
 flac     = ["flac-sys"]
 libflac  = ["libflac-sys"]
